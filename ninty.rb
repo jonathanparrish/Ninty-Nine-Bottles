@@ -16,5 +16,4 @@ end
     beer_minus = beer - 1
     puts "Take one down pass it around " + beer_minus.to_s + " bottles of beer on the wall"
     puts "Now your drunk!"
-    beer = beer_minus
 end
